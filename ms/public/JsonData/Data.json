@@ -1,0 +1,56 @@
+{
+    "user": [
+      { 
+        
+        "titel": "Republic World",
+        "Price": 300,
+        "description": "Kick start your career",
+        "PostImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/cq0naqlgb7kvcloe_1616656624.jpeg?tr=w-1200,h-900"
+   
+      },
+      {
+
+        "titel": "Games Radar",
+        "Price": 600,
+        "description": "Sample Description",
+        "PostImage": "https://cdn.mos.cms.futurecdn.net/2aXLfQmG5nbSiwkngZJh6e.jpg"
+       
+      },
+      {
+        "titel": "Rummy Circle",
+        "Price": 800,
+        "description": "Sample Description for Post",
+        "PostImage": "https://rcmg.in/rc/acquisition/articles/top-10-online-games.jpg"
+      },
+      {
+        "titel": " PUBG: Battlegrounds",
+        "Price": 800,
+        "description": " PUBG: Battlegrounds is the pioneer popular Battle",
+        "PostImage": "https://beebom.com/wp-content/uploads/2023/03/PUBG-Battlegrounds.jpg?quality=75&strip=all"
+      },
+      {
+        "titel": "Warzone 2.0",
+        "Price": 300,
+        "description": "Kick start your career",
+        "PostImage": "https://beebom.com/wp-content/uploads/2023/03/Call-of-Duty-Warzone-2.0.jpg?quality=75&strip=all"
+      },
+      {
+        "titel": "Valorant",
+        "Price": 6000,
+        "description": "Pricing model: Free-To-Play",
+        "PostImage": "https://beebom.com/wp-content/uploads/2018/04/Valorant.jpg?quality=75&strip=all"
+      },
+      {
+        "titel": "bemboo",
+        "Price": 3000,
+        "description": "The best  games for PC",
+        "PostImage": "https://beebom.com/wp-content/uploads/2018/04/Best-Online-Games-for-PC-1.jpg?w=750&quality=75"
+      },
+      {
+        "titel": "PCgameN",
+        "Price": 5000,
+        "description": "The best online games for PC with no download",
+        "PostImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHNbaOSzB5wGJa4D4OXdquzYPq2P7VAPfUGw&usqp=CAU"
+      }
+    ]
+  }
